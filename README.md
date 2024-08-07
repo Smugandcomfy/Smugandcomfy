@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smugandcomfy
-- 👀 I’m interested in cross border settlement, data feeds & security
-- 🌱 I’m currently learning rust python & motoko
+- 👀 I’m interested in canisters, fun fintech
+- 🌱 I’m currently learning motoko, js, html, svelte
 - 💞️ 
 - 📫 How to reach me ...
 
